@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MACStepikMM</string>
+    <string name="first_activity">Первая активити</string>
+    <string name="direct">ВПЕРЕД</string>
+    <string name="second_activity">Вторая активити</string>
+    <string name="back">НАЗАД</string>
+</resources>
